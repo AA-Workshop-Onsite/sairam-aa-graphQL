@@ -3,8 +3,8 @@ extend schema
     [
       "@key",
       "@tag",
-      "@shareable"
-      "@authenticated"
+      "@shareable",
+      "@authenticated",
       "@requiresScopes"
     ]
   )
